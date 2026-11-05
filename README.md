@@ -1,5 +1,14 @@
 # UnvibeCode — Flask Analysis Project
 
+
+## Track 1 — Engineering Issue Investigation
+
+I also attempted Track 1 by analyzing Flask with UnvibeCode and investigating potential issues in the repository.
+
+The automated review produced several candidates and investigation gaps, but I could not verify a reproducible defect that met the challenge's evidence requirements. I therefore did not submit a speculative GitHub issue.
+
+This investigation helped me understand the importance of validating automated findings with a minimal reproduction and checking whether the observed behavior is actually unexpected.
+
 This repository packages a reproducible UnvibeCode analysis of the
 [Flask](https://flask.palletsprojects.com/) framework, together with the
 analyzed Flask source snapshot and the generated review artifacts.
